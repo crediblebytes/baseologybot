@@ -17,7 +17,8 @@
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.2.0",
-	"hubot-lunch": "0.1.2"
+	"hubot-lunch": "0.1.2",
+	"hubot-vsonline": "0.2.9"
   },
   "engines": {
     "node": "0.10.x"
