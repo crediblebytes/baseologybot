@@ -8,5 +8,6 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-lunch",
-  "hubot-vsonline"
+  "hubot-vsonline",
+  "hubot-vso-scripts"
 ]
